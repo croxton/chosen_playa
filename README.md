@@ -1,7 +1,7 @@
 #Chosen Playa
 
 * Author: [Mark Croxton](http://hallmark-design.co.uk/)
-* Code inspired by and borrowed from Chosen Selects by [John D Wells](https://github.com/johndwells/Chosen-Selects)
+* Code inspired by and heavily borrowed from Chosen Selects by [John D Wells](https://github.com/johndwells/Chosen-Selects) - thanks John!
 
 ## Version 1.0.0
 
