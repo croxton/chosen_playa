@@ -17,8 +17,8 @@ Chosen Playa is considerably 'lighter' than droppanes and can help you speed up 
 
 ## Current shortcomings include:
 
-    UI breaks if field is initially hidden in tab or collapsed
-    No Matrix support
-    Template tags have not been extensively tested
-    Entries cannot be ordered
+* UI breaks if field is initially hidden in tab or collapsed
+* No Matrix support
+* Template tags have not been extensively tested
+* Entries cannot be ordered
     
